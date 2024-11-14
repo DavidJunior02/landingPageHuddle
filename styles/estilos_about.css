@@ -18,11 +18,16 @@
     color: white;
     display: inline-block;
 }
+.nav__link:hover{
+   background-color: rgba(216, 255, 255, 0.74);
+   color: #006;
+  }
 .link--button{
     margin-left: 2.5rem;
     background-color: white;
     color: aqua;
     border: 1px white solid;
+    border-radius: 10px;
     padding: 8px 16px;
     font-family: sans-serif;
 }
@@ -32,5 +37,38 @@
     
 }
 h2{
-    color:red
+    margin-top: 10px;
+    margin-left: 30px;
+    color:rgb(0, 0, 2)
+}
+p{
+    position: relative;  
+    width: 20%;
+    background-color: blueviolet;
+    margin: 20px 30px;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+    box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.63);
+}
+
+.text--vision{
+    background-color: rgba(233, 156, 14, 0.966);
+}
+.text--mision{
+    background-color: rgba(13, 124, 13, 0.918);
+}
+body{
+    display: inline-block;
+}
+.image--container{
+    width: 500px;
+    
+}
+
+img{
+    width: 100%;
+    height: auto; /* Mantiene las proporciones de la imagen */
+    border-radius: 8px; /* Opcional: para bordes redondeados */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Opcional: agrega sombra */
 }

@@ -1,9 +1,9 @@
-* {
+/* * {
     margin: 0;
     box-sizing: border-box;
 }
 
-
+ */
 :root {
     --poppins: "Poppins", sans-serif;
     --opensans: "Open Sans", sans-serif;
