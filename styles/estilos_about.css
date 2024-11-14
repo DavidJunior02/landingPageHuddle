@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+
+.nav__lista{
+    background-color: aqua;
+    text-align: center;
+}
+.nav__item{
+    display: inline-block;
+    
+   
+
+}
+.nav__link{
+  padding: 10px 19px;
+    font-size: 20px;    
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+}
