@@ -65,10 +65,49 @@ body{
     width: 500px;
     
 }
-
-img{
+.container--banner{
+    box-sizing: border-box;
+    padding: 15px 80px;
     width: 100%;
-    height: auto; /* Mantiene las proporciones de la imagen */
-    border-radius: 8px; /* Opcional: para bordes redondeados */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Opcional: agrega sombra */
+    height: 100px;
+    background-color: rgb(46, 139, 139);
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+h3{
+    padding: 5px 10px;
+    border: 2px white solid;
+    color: rgb(4, 0, 43);
+    font-family: Georgia;
+    margin-bottom: 15px;
+}
+.container--banner > span{
+
+    padding: 15px;
+    text-align: center;
+    border: none;
+    
+    color: rgb(227, 228, 227);
+    font-family: tahoma;
+}
+
+.lista--servicios{
+
+    margin-top: 20px;
+    text-align: center;
+}
+.item__lista{
+    display: inline-block;
+    text-decoration: none;
+    margin: 5px;
+   
+}
+.item__link{
+        display: inline-block;
+        padding: 10px 20px;
+        text-decoration: none;
+        font-family: sans-serif;
+        margin: 5px;
+    
 }
