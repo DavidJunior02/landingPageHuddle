@@ -1,2 +1,4 @@
 Hola este texto es para informar como solucionar conflictos usando git y el programa
 Visual studio code 
+
+-Este es un mensaje de la rama develop 
