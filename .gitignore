@@ -16,4 +16,5 @@
 
 
 #Agregado por el usuario nuevo
-texto_ignorar.txt
+.txt
+!texto_ignorar.txt
