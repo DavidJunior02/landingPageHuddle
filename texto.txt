@@ -1,0 +1,4 @@
+Hola este texto es para informar como solucionar conflictos usando git y el programa
+Visual studio code 
+
+--Mensaje hecho desde la rama noob
